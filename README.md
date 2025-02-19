@@ -1,4 +1,4 @@
-# Raydium Sniper Bot
+# Raydium Sniper Bot V2
 
 **The Raydium Sniper Bot** aims to catch new pools on Raydium and execute buy/sell transactions to make a profit. It allows for manual and automated trading, giving users the flexibility to optimize their strategies and maximize returns.
 I entered a small amount of sol for testing purposes, but you can adjust it to suit your strategy.
