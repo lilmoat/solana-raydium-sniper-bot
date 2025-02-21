@@ -10,6 +10,8 @@ I entered a small amount of sol for testing purposes, but you can adjust it to s
 - **Risk management controls**
 - **Real-time pool tracking**
 ## Demo
+Demo video : [Youtube](https://www.youtube.com/watch?v=CV1MY7kq4rk)
+
 ![image](https://github.com/user-attachments/assets/02564b28-8261-4994-ab8e-3afdf71ef854)
 
 ## Contact
